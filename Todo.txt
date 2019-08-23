@@ -1,0 +1,13 @@
+
+MAIN TODO
+
+1. Dev-Environment --> Truffle Suite
+2. Setup Blockchain 
+3. Write Smartcontract for PACE-Token
+4. Front-End 
+
+
+TODO 1:
+TODO 2:
+TODO 3:
+TODo 4:
