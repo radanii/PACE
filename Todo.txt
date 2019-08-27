@@ -18,6 +18,6 @@ GUIDELINES
 
 How to write a ERC20 Token:
 
-- Source Code: https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/token/ERC20
-- Guideline: https://hackernoon.com/create-your-own-ethereum-token-bfa6302084da
+- Source Code: 
+- Guideline: 
 
