@@ -21,3 +21,12 @@ YouTube Tutorial for all sorts of Contracts:
 Programming your own Game while learning Solidity: 
 
 - https://cryptozombies.io/
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+
+Interesting Articles and Website for finding Ideas
+
+- https://blog.quillhash.com/ethereum-blockchain-use-cases-and-applications/
