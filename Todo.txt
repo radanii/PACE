@@ -9,5 +9,15 @@ MAIN TODO
 
 TODO 1:
 TODO 2:
-TODO 3: Warum wir ERC223 Token benutzen und was ein Token ist --> https://www.youtube.com/watch?v=cqZhNzZoMh8
+TODO 3: Warum wir ERC20 oder ERC223 Token benutzen und was ein Token ist --> https://www.youtube.com/watch?v=cqZhNzZoMh8
 TODo 4:
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+GUIDELINES
+
+How to write a ERC20 Token:
+
+- Source Code: https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/token/ERC20
+- Guideline: https://hackernoon.com/create-your-own-ethereum-token-bfa6302084da
+
