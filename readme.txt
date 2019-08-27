@@ -29,7 +29,7 @@ YouTube Tutorial for all sorts of Contracts:
 
 - https://www.youtube.com/channel/UCaWes1eWQ9TbzA695gl_PtA // Willitscale
 
-
+-----
 
 Programming your own Game while learning Solidity: 
 
