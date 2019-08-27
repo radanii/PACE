@@ -9,5 +9,5 @@ MAIN TODO
 
 TODO 1:
 TODO 2:
-TODO 3: Warum wir ERC223 Token benutzen --> https://www.youtube.com/watch?v=cqZhNzZoMh8
+TODO 3: Warum wir ERC223 Token benutzen und was ein Token ist --> https://www.youtube.com/watch?v=cqZhNzZoMh8
 TODo 4:
