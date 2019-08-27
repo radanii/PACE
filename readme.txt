@@ -9,16 +9,16 @@ MAIN TODO
 
 TODO 1:
 TODO 2:
-TODO 3: Warum wir ERC20 oder ERC223 Token benutzen und was ein Token ist --> https://www.youtube.com/watch?v=cqZhNzZoMh8
+TODO 3: Warum wir ERC223 Token benutzen und was ein Token ist --> https://www.youtube.com/watch?v=cqZhNzZoMh8
 TODo 4:
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 GUIDELINES
 
-How to write a ERC20 Token:
+How to write a ERC223 Token:
 
-- Source Code: 
+- Source Code: https://github.com/Dexaran/ERC223-token-standard // Inventor of the ERC223 Token
 - Guideline: 
 
 -----------------------------------------------------------------------------------------------------------------------------------------
