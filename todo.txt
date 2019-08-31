@@ -7,7 +7,7 @@ MAIN TODO
 4. Front-End 
 
 
-TODO 1:
+TODO 1: Pycharm upload
 TODO 2:
 TODO 3: 
 TODo 4:
