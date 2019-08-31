@@ -30,3 +30,11 @@ Programming your own Game while learning Solidity:
 Interesting Articles and Website for finding Ideas
 
 - https://blog.quillhash.com/ethereum-blockchain-use-cases-and-applications/
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+
+Use Cases
+
+- AchtOhm Song Copyright
