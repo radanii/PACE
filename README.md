@@ -38,3 +38,4 @@ Interesting Articles and Website for finding Ideas
 Use Cases
 
 - AchtOhm Song Copyright
+- Programming a little Game where players bet with PACE Coin (  kinda like --> https://www.celer.network/ )
