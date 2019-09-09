@@ -2,6 +2,10 @@
 
 GUIDELINES
 
+5 PRogramming Languages that you need to be a Blockchain-Developer:
+
+- BTC-Echo: https://www.btc-echo.de/diese-5-programmiersprachen-sollten-blockchain-entwickler-beherrschen/
+
 How to write a ERC223 Token:
 
 - Source Code: https://github.com/Dexaran/ERC223-token-standard // Inventor of the ERC223 Token
