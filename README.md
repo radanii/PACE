@@ -35,6 +35,8 @@ Interesting Articles and Website for finding Ideas
 
 - https://blog.quillhash.com/ethereum-blockchain-use-cases-and-applications/
 
+- Mit "Chainlink" kann eine API mit Echtzeit Daten aus der Realen Welt in das Blockchain System intergriert werden. (als            Konsensusalgorithmus kann Chainlink als Oracle genutzt werden.) Damit können Blockchainlösungen mit EUR bezahlt werden oder Echtzeit-Ereignisse, wie das Aufnehmen eines Paketes vom DHL-Bote triggert eine Funktion auf der Website und der Kunde bezahlt automatisiert erst einen Teil der Gesamt-Preises mit EUR.
+
 
 --------------------------------------------------------------------------------------------------------------------------
 
@@ -43,3 +45,4 @@ Use Cases
 
 - AchtOhm Song Copyright
 - Programming a little Game where players bet with PACE Coin (  kinda like --> https://www.celer.network/ )
+
